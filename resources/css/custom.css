@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Supermercado+One');
+
+body {
+    margin: 50px 0 0 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+    color: #aaa;
+    font-size: 18px;
+}
+
+.helmet {
+    width: 200px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #FF8C00;
+    letter-spacing: -3px;
+    font-size: 100px;
+    font-weight: 200;
+    margin-bottom: 0;
+}
+
