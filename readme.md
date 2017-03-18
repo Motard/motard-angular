@@ -23,6 +23,6 @@ It also makes use of gulp to create a distribution folder.
 #### Run Gulp
 `gulp`
 
-####**And that's it. You are ready to go.**
+#### **And that's it. You are ready to go.**
 
 
