@@ -1,0 +1,17 @@
+{
+  "name": "motard-angular",
+  "version": "1.1",
+  "authors": [
+    "paulo martins <pmotard@sapo.pt>"
+  ],
+  "description": "This package creates an angular structure, using ui-router and local storage. It also makes use of gulp to create a distribution folder",
+  "main": "",
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+      "bower.json"
+  ]
+}
